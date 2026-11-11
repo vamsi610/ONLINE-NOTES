@@ -1,0 +1,6 @@
+{
+  "name": "Online Notes Management System",
+  "description": "A comprehensive web-based notes management system for students to create, organize, search, and manage academic notes with subjects, categories, and MongoDB integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
